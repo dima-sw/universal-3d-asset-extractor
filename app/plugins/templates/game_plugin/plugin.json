@@ -1,0 +1,10 @@
+{
+    "name": "{{PLUGIN_NAME}}",
+    "id": "{{PLUGIN_SLUG}}",
+    "version": "0.1.0",
+    "author": "",
+    "api_version": 1,
+    "supported_extensions": [],
+    "supported_engines": [],
+    "entrypoint": "plugin.py"
+}

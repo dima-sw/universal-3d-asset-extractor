@@ -1,0 +1,9 @@
+{
+    "name": "Engine fingerprints",
+    "version": "1.0.0",
+    "author": "Universal 3D Asset Extractor",
+    "api_version": 1,
+    "supported_extensions": ["forge", "cas", "cat", "toc", "sb", "pck", "bnk", "psarc", "dat"],
+    "supported_engines": ["Frostbite", "Anvil", "Wwise", "RE Engine", "Decima"],
+    "entrypoint": "plugin.py"
+}

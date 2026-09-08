@@ -1,0 +1,15 @@
+# Core (required)
+numpy>=1.24
+Pillow>=10.0
+
+# GUI (optional: the core, CLI and tests run without it)
+PySide6>=6.5
+
+# Optional format support - install what you need
+# py7zr>=0.20        # 7-Zip archives
+# rarfile>=4.1       # RAR archives (needs an unrar/bsdtar backend)
+# zstandard>=0.21    # Zstd-compressed blobs
+# lz4>=4.3           # faster LZ4 (a pure-python fallback ships with the app)
+
+# Development
+pytest>=7.0

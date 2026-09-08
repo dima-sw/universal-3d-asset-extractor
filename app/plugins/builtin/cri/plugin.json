@@ -1,0 +1,9 @@
+{
+    "name": "CRI (AFS/ADX/SFD)",
+    "version": "1.0.0",
+    "author": "Universal 3D Asset Extractor",
+    "api_version": 1,
+    "supported_extensions": ["afs", "adx", "pss", "sfd"],
+    "supported_engines": ["CRI Middleware"],
+    "entrypoint": "plugin.py"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Unreal",
+    "version": "1.0.0",
+    "author": "Universal 3D Asset Extractor",
+    "api_version": 1,
+    "supported_extensions": ["pak", "uasset", "umap", "uexp", "ubulk", "utoc", "ucas"],
+    "supported_engines": ["Unreal"],
+    "entrypoint": "plugin.py"
+}

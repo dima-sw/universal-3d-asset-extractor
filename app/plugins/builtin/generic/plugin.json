@@ -1,0 +1,9 @@
+{
+    "name": "Example Game Plugin",
+    "version": "1.0.0",
+    "author": "Universal 3D Asset Extractor",
+    "api_version": 1,
+    "supported_extensions": ["xyz"],
+    "supported_engines": [],
+    "entrypoint": "plugin.py"
+}

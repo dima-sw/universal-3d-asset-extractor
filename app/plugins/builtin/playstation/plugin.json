@@ -1,0 +1,9 @@
+{
+    "name": "PlayStation (PS1/PS2)",
+    "version": "1.0.0",
+    "author": "Universal 3D Asset Extractor",
+    "api_version": 1,
+    "supported_extensions": ["tim", "tm2", "tmd", "hmd", "pss", "bin", "exe"],
+    "supported_engines": ["PS1", "PS2"],
+    "entrypoint": "plugin.py"
+}
